@@ -107,4 +107,4 @@ Bu plan, dersin genel konularını özetler.
 Detaylı notlar, örnek kodlar ve uygulamalar her hafta eklenecektir.
 
 ---
-✍️ Hazırlayan: **Bilâl Homs**
+✍️ Hazırlayan: **BELAL ALHAMID**
